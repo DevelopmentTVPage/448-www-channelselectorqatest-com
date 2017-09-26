@@ -1,0 +1,42 @@
+{
+    "title": "Ravioli ravioli, give me the formuoli",
+    "description": "Ravioli ravioli GIVE ME THE FORMUOLI.",
+    "referenceId": "KQi3r88-rT4",
+    "date_created": "1506467809",
+    "date_modified": "1506467809",
+    "tags": null,
+    "sourceId": "4",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "117404186",
+    "loginId": "1759034",
+    "entityType": "1",
+    "titleTextEncoded": "Ravioli-ravioli-give-me-the-formuoli",
+    "category": null,
+    "tvp_profiles": [
+        "3",
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 25.672081,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 35,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Dock",
+        "hdvFlag": 0,
+        "description": "Ravioli ravioli GIVE ME THE FORMUOLI.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KQi3r88-rT4\/sddefault.jpg",
+        "videoId": "KQi3r88-rT4",
+        "mediaDuration": 35,
+        "prettyDuration": "00:00:35"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
