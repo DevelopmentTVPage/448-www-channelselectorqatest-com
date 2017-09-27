@@ -1,0 +1,26 @@
+{
+    "pageNumber": 10,
+    "data": [
+        {
+            "id": "117404701",
+            "title": "jpuga2000 - Black Ops Game Clip",
+            "date_created": "1506475910",
+            "loginId": "1759034",
+            "tags": null,
+            "description": "Game Clip.",
+            "asset": {
+                "type": "youtube",
+                "author": "CODblackopsPS",
+                "hdvFlag": 0,
+                "description": "Game Clip.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Le8YQXNQIDI\/hqdefault.jpg",
+                "videoId": "Le8YQXNQIDI",
+                "mediaDuration": 12,
+                "prettyDuration": "00:00:12"
+            },
+            "parentId": "117404699",
+            "url": "\/channel-3\/jpuga2000-black-ops-game-clip\/117404699-117404701"
+        }
+    ]
+}
