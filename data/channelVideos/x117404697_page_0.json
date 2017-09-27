@@ -1,0 +1,77 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404215",
+            "title": "Videos > Check options",
+            "date_created": "1384828152",
+            "loginId": "1759034",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CARY5PwRuiI\/maxresdefault.jpg",
+                "uploadDate": 1384828152,
+                "videoId": "CARY5PwRuiI",
+                "title": "Episode 4: Publish and Syndicate",
+                "description": "",
+                "author": "TVPage",
+                "mediaDuration": 536,
+                "prettyDuration": "00:08:56",
+                "views": "17",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404697",
+            "url": "\/channel-1\/episode-4-publish-and-syndicate\/117404697-117404215"
+        },
+        {
+            "id": "117404216",
+            "title": "VIDEOS > Publish Link",
+            "date_created": "1382724381",
+            "loginId": "1759034",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/L0kqOaTwMsE\/maxresdefault.jpg",
+                "uploadDate": 1382724381,
+                "videoId": "L0kqOaTwMsE",
+                "title": "Episode 3:  Converting Viewers to Customers",
+                "description": "",
+                "author": "TVPage",
+                "mediaDuration": 248,
+                "prettyDuration": "00:04:08",
+                "views": "40",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404697",
+            "url": "\/channel-1\/episode-3-converting-viewers-to-customers\/117404697-117404216"
+        },
+        {
+            "id": "117404217",
+            "title": "VDP",
+            "date_created": "1382702331",
+            "loginId": "1759034",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1iL6v12LdW0\/maxresdefault.jpg",
+                "uploadDate": 1382702331,
+                "videoId": "1iL6v12LdW0",
+                "title": "Episode 1: What Is a TVPage?",
+                "description": "",
+                "author": "TVPage",
+                "mediaDuration": 279,
+                "prettyDuration": "00:04:39",
+                "views": "67",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404697",
+            "url": "\/channel-1\/episode-1-what-is-a-tvpage\/117404697-117404217"
+        }
+    ]
+}
