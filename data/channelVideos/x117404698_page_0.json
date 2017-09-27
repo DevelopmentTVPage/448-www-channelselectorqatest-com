@@ -1,0 +1,53 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404200",
+            "title": "CHANNELS > Search > [ + ]",
+            "date_created": "1407804771",
+            "loginId": "1759034",
+            "tags": "",
+            "description": "Char-Broil TV is the home of all Char-Broil's video content. Visitors can browse, watch and get engaged with Char-Broil content, while they shop! This is an excellent example of how a company can create a video section on their website, and not send visitors to YouTube, where they can be lost. Would you send a customer out of your store?",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/leh4XLjMab4\/maxresdefault.jpg",
+                "uploadDate": 1407804771,
+                "videoId": "leh4XLjMab4",
+                "title": "Char-Broil. A TVPage Case Study.",
+                "description": "Char-Broil TV is the home of all Char-Broil's video content. Visitors can browse, watch and get engaged with Char-Broil content, while they shop! This is an excellent example of how a company can create a video section on their website, and not send visitors to YouTube, where they can be lost. Would you send a customer out of your store?",
+                "author": "TVPage",
+                "mediaDuration": 163,
+                "prettyDuration": "00:02:43",
+                "views": "93",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404698",
+            "url": "\/channel-2\/char-broil-a-tvpage-case-study\/117404698-117404200"
+        },
+        {
+            "id": "117404209",
+            "title": "Channel > Plus [ + ]",
+            "date_created": "1388518105",
+            "loginId": "1759034",
+            "tags": "",
+            "description": "Embedding a TVPage on your blog or website is easy! Display your collection of videos complete with calls to action on all of your web properties.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/g3PVawRrWIw\/maxresdefault.jpg",
+                "uploadDate": 1388518105,
+                "videoId": "g3PVawRrWIw",
+                "title": "Episode 10: Embed Your TVPage",
+                "description": "Embedding a TVPage on your blog or website is easy! Display your collection of videos complete with calls to action on all of your web properties.",
+                "author": "TVPage",
+                "mediaDuration": 203,
+                "prettyDuration": "00:03:23",
+                "views": "12",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404698",
+            "url": "\/channel-2\/episode-10-embed-your-tvpage\/117404698-117404209"
+        }
+    ]
+}
