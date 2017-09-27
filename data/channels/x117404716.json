@@ -1,0 +1,23 @@
+{
+    "title": "Channel 19",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1506477367",
+    "date_modified": "1506477607",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117404716",
+    "loginId": "1759034",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-18",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
